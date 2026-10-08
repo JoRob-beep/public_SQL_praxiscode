@@ -1,0 +1,1 @@
+create table verkauf (verkauf_id int not null primary key, kunden_id int, lieferanten_id int, artikel_id int, menge int, datum date); 

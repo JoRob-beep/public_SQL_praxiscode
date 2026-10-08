@@ -1,0 +1,1 @@
+SELECT name as Name, vorname as Vorname, strasse as Strasse, hausnummer as Hausnummer, plz as Postleitzahl, ort as Ort FROM uebungsdatenbank.mitarbeiter;

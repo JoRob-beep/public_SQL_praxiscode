@@ -1,0 +1,1 @@
+select name, vorname, austrittsdatum from mitarbeiter;

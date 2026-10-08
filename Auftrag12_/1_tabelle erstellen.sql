@@ -1,0 +1,1 @@
+create table kunden (kundenid int not null primary key, vorname varchar(100), nachname varchar(100), straße varchar(100), hausnummer int, postleitzahl int, stadt varchar(100), telefonnummer varchar(100), email varchar(100));

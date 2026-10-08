@@ -1,0 +1,1 @@
+create table lieferanten (kundenid int not null primary key, name varchar(100), straße varchar(100), hausnummer int, postleitzahl int, stadt varchar(100), telefonnummer varchar(100), email varchar(100));

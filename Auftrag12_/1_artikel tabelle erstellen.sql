@@ -1,0 +1,1 @@
+create table artikel (artikel_id int primary key not null, bezeichnung varchar(200), beschreibung varchar(500), preis float, lagerbestand int);

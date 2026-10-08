@@ -1,0 +1,1 @@
+ALTER TABLE artikelaktuell DROP PRIMARY KEY;
